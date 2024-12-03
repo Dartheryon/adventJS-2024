@@ -1,4 +1,4 @@
-# adventJS-2024
+# AdventJS 2024
 ### Mi repo para el AdventJS del 2024
 
 En la carpeta `src` se encuentra el código de cada día del reto.
