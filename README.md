@@ -15,9 +15,11 @@ Créditos de la imagen: [EDteam](https://ed.team/)
 
 ### Listado de los restos de AdventJS 2024:
 
-- [x] 01 de diciembre de 2024 - Reto #1: 🎁 ¡Primer regalo repetido!
-- [ ] 02 de diciembre de 2024 - Reto #2: 🖼️ Enmarcando nombres
-- [ ] 03 de diciembre de 2024 - Reto #3: 🏗️ Organizando el inventario
+Se agregarán los nombres y los enlaces a los retos una vez sean activados el día correspondiente. 🙃
+
+- [x] 01 de diciembre de 2024 - [Reto #1: 🎁 ¡Primer regalo repetido!](https://adventjs.dev/es/challenges/2024/1)
+- [ ] 02 de diciembre de 2024 - [Reto #2: 🖼️ Enmarcando nombres](https://adventjs.dev/es/challenges/2024/2)
+- [ ] 03 de diciembre de 2024 - [Reto #3: 🏗️ Organizando el inventario](https://adventjs.dev/es/challenges/2024/3)
 - [ ] 04 de diciembre de 2024
 - [ ] 05 de diciembre de 2024
 - [ ] 06 de diciembre de 2024
